@@ -1,1 +1,1 @@
-# kiss
+# KISS(Keep It Simple, Stupid)
